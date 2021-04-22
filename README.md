@@ -13,8 +13,7 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=mandarsatam&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarsatam&theme=dracula&count_private=true">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=mandarsatamtheme=dracula"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=mandarsatam&theme=dracula"/>
 
 </p>
 
