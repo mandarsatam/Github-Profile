@@ -17,7 +17,7 @@
 
 </p>
 
-Checkout my Portfolio here 👉🏻 [**@Sourcerer**](https://sourcerer.io/mandarsatam)
+Checkout my Portfolio here 👉🏻 [**@Portfolio**](https://mandarsatam.github.io/portfolio/)
 
 ---
 
